@@ -1,0 +1,267 @@
+#brand{
+    font-weight:600;
+    font-style:italic;
+    font-size:24px;
+    color:white;
+    letter-spacing:1px;
+}
+
+#main_navbar{
+    background-color:rgba(79, 79, 79,0);
+    height:93px;
+    border-bottom:1px solid rgba(134,134,134,0.3);
+    -webkit-transition:background-color 0.4s;
+    
+}
+
+#main_navbar ul li a{
+    color:white;
+    font-size:16px;
+    font-family: "Lato",sans-serif;
+    font-weight: 700;
+      background-color:rgba(79, 79, 79,0);
+      -webkit-transition:background-color 0.4s;
+   
+    
+
+}
+#main_navbar ul li a:hover{
+    color:#fec840;
+   background-color:rgba(79, 79, 79,0);
+    -webkit-transition:background-color 0.3s;
+}
+
+#denote{
+    background-color:white;
+    font-size:16px;
+    font-family: "Lato",sans-serif;
+    font-weight: 700;
+}
+#denote:hover{
+    background-color:#fec840;
+       color:#2049b0;
+       font-size:16px;
+    font-family: "Lato",sans-serif;
+    font-weight: 700;
+    transition:background-color 0.3s;
+}
+
+.headings{
+    font-size:36px;
+    font-family: "Lato",sans-serif;
+    font-weight: 700;
+    color:#6a4444;
+}
+
+.content{
+    font-size:21px;
+    color:#835d5d;
+       font-family: "Lato",sans-serif;
+}
+.hr1{
+    background-color:#fec840;
+    height:3px;
+    width:70px;
+}
+
+.content1{
+    font-size:18px;
+    color:#575757;
+       font-family: "Lato",sans-serif;
+       font-weight:400;
+}
+#cause{
+    font-style:italic;
+    background-color:#fac445;
+    color:white;
+}
+
+#cause:hover{
+    background-color:#ffd540;
+}
+.counter1{
+    font-size:60px;
+     font-family: "Lato",sans-serif;
+     color:white;
+}
+.counter2{
+    font-size:60px;
+     font-family: "Lato",sans-serif;
+     color:white;
+}
+.counter3{
+    font-size:60px;
+     font-family: "Lato",sans-serif;
+     color:white;
+}
+.counter4{
+    font-size:60px;
+     font-family: "Lato",sans-serif;
+     color:white;
+}
+.hr2{
+    background-color:white;
+    height:3px;
+    width:90px;
+}
+
+.subheading{
+    font-size:18px;
+    color:white;
+    font-family: "Lato",sans-serif;
+    font-weight:700;
+
+}
+
+#btn_vol{
+color: #fec840;
+ border-color: #fec840;
+ background-color:white;
+}
+
+#btn_den{
+    background-color: #eea43a;
+    color:white;
+}
+
+#btn_den:hover{
+    background-color:#fec846;
+}
+
+#btn_vol:hover{
+    background-color:#fec840;
+    color:white;
+}
+
+
+#testimonials{
+    background-image: url('../../images/img3.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:450px;
+    
+ 
+
+}
+
+#testimonials::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+.test{
+    color:white;
+    font-size:36px;
+}
+
+
+.hr5{
+    background-color:white;
+    height:3px;
+    width:90px;
+}
+
+.content_test{
+    font-size:30px;
+    font-style:italic;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.caption{
+    font-size:18px;
+    color:white;
+    background-color:#f1c047;
+    padding:15px;
+    font-family: "Lato",sans-serif;
+    font-weight: 700;
+}
+
+
+
+
+
+#testimonial{
+    background-image: url('../../images/3.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:auto;
+    
+ 
+
+}
+
+#testimonial::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+.content10{
+    color:white;
+    font-size:22px;
+}
+
+
+#inputs input{
+    background-color:rgba(255,255,255,0.2);
+    color:#fec840;
+    font-weight:bold;
+    font-size:15px;
+}
+#inputs textarea{
+    background-color:rgba(255,255,255,0.2);
+    color:#fec840;
+    font-weight: bold;
+}
+
+
+#inputs textarea::placeholder{
+    color:#fec840;
+}
+
+#inputs input::placeholder{
+    color:#fec840;
+}
+
+
+#end_denotion{
+    background-color:#fac038;
+}
+
+
+.caption1{
+    font-size:24px;
+    color:white;
+    font-family: "Lato",sans-serif;
+    font-weight: 700;
+}
+
+#cause1{
+    margin-top:-5px;
+    font-style:italic;
+    background-color:white;
+    color:#fac445;
+    font-weight:700;
+}
+
+#cause1:hover{
+    background-color:#fcb000;
+    color:white;
+    font-weight:700;
+}
+
+
+.about_footer{
+    color:#fac038;
+    font-size:19px;
+    font-weight:600;
+}
+
+.content_about{
+    color:white;
+    font-size:16px;
+}
+
+
